@@ -1,7 +1,5 @@
 /.idea/
 /spring-playground/spring-core/target/
-/spring-playground/spring-config/target/
-/library-management/target/
 
 *.iml
 
