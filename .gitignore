@@ -1,5 +1,7 @@
 /.idea/
 /spring-playground/spring-core/target/
+/spring-playground/spring-config/target/
+/spring-playground/lombok/target/
 
 *.iml
 
